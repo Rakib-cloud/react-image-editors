@@ -1,4 +1,4 @@
-# Easy Image Editor
+# React-Image-editors
 
 Easy Image Editor is a simple web-based image editor that allows you to apply filters and transformations to your images. The editor is built with React and uses canvas to manipulate images.
 
